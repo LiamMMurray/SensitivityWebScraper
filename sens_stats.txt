@@ -1,0 +1,66 @@
+csgo_sens
+Q1: 41.56
+Q2: 49.48
+Q3: 57.73
+AV: 50.40
+
+val_sens
+Q1: 40.82
+Q2: 52.04
+Q3: 59.38
+AV: 51.84
+
+ow_sens
+Q1: 24.74
+Q2: 31.49
+Q3: 40.77
+AV: 33.45
+
+al_sens
+Q1: 28.86
+Q2: 34.64
+Q3: 46.64
+AV: 42.26
+
+fortnite_x_sens
+Q1: 22.86
+Q2: 29.39
+Q3: 34.29
+AV: 28.65
+
+fortnite_y_sens
+Q1: 23.18
+Q2: 29.61
+Q3: 34.29
+AV: 29.84
+
+fortnite_x_sens_targeting
+Q1: 32.66
+Q2: 52.87
+Q3: 76.21
+AV: 60.40
+
+fortnite_y_sens_targeting
+Q1: 34.29
+Q2: 56.23
+Q3: 80.36
+AV: 63.72
+
+fortnite_x_sens_scoped
+Q1: 31.99
+Q2: 51.12
+Q3: 72.86
+AV: 57.77
+
+fortnite_y_sens_scoped
+Q1: 33.36
+Q2: 52.36
+Q3: 73.62
+AV: 61.00
+
+master_sens
+Q1: 31.49
+Q2: 41.56
+Q3: 52.04
+AV: 43.25
+
